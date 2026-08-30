@@ -20,6 +20,7 @@ public class Test {
     }
 
     int mul(int a, int b) {
+        System.out.println("multiply");
         return a*b;
     }
 }
