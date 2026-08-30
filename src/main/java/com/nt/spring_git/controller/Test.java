@@ -1,7 +1,11 @@
 package com.nt.spring_git.controller;
 
+import com.nt.spring_git.SpringGitApplication;
+import org.springframework.boot.SpringApplication;
+
 public class Test {
     public static void main(String[] args) {
+        SpringApplication.run(SpringGitApplication.class, args);
         System.out.println("Hello World");
     }
 }
