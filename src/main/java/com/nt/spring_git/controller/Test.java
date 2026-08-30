@@ -22,6 +22,6 @@ public class Test {
     int mul(int a, int b) {
         System.out.println("multiply");
         System.out.println("Test.mul");
-        return a*b+908+65-98;
+        return a*b;
     }
 }
