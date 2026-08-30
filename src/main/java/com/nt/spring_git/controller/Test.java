@@ -11,4 +11,7 @@ public class Test {
     double sum(double a, double b) {
         return a+b;
     }
+    int substraction(int a, int b) {
+        return a*b;
+    }
 }
