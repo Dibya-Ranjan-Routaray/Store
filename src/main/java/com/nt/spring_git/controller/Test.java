@@ -8,7 +8,7 @@ public class Test {
         SpringApplication.run(SpringGitApplication.class, args);
         System.out.println("Hello World");
     }
-    public int add(int a, int b) {
-        return a + b;
+    double sum(double a, double b) {
+        return a+b;
     }
 }
