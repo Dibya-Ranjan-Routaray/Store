@@ -21,7 +21,7 @@ public class Test {
 
     int mul(int a, int b) {
         System.out.println("multiply");
-        System.out.println("Test.mul");
+        System.out.println("Another make changes ");
         return a*b;
     }
 }
